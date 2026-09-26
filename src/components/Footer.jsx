@@ -5,7 +5,6 @@ import SendIcon from '@mui/icons-material/Send';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import EmailIcon from '@mui/icons-material/Email';
-import LanguageIcon from '@mui/icons-material/Language';
 import PrivacyTipOutlinedIcon from '@mui/icons-material/PrivacyTipOutlined';
 import GavelIcon from '@mui/icons-material/Gavel';
 import LocalShippingIcon from '@mui/icons-material/LocalShipping';
