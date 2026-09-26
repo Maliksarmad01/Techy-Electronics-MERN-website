@@ -1,7 +1,5 @@
 # Techy Electronics — MERN Stack E-Commerce Website
 
-<p align="center">
-  <img src="docs/logo.png" alt="Techy Electronics Logo" width="35%" />
 </p>
 
 <p align="center">
@@ -146,15 +144,15 @@ The frontend is designed to work across:
 
 ### Recommended Products
 
-<img src="docs/recommended-products-ui.png" alt="Recommended Products" width="100%" />
+<img src="docs/recommended-product-ui.png" alt="Recommended Products" width="100%" />
 
 ### Products
 
-<img src="docs/products-ui.png" alt="Products" width="100%" />
+<img src="docs/product-ui.png" alt="Products" width="100%" />
 
 ### Product Details
 
-<img src="docs/product-details-ui.png" alt="Product Details" width="100%" />
+<img src="docs/product-detail-ui.png" alt="Product Details" width="100%" />
 
 ### Shopping Cart
 
