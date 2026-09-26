@@ -1,12 +1,12 @@
-# Fusion Electronics: A MERN-Stack E-commerce Application
+# Techy Electronics: A MERN-Stack E-commerce Application
 
-Welcome to **Fusion Electronics**, a **MERN-Stack E-commerce Application**! This project is a working demo of a full-stack web application that was built using the MERN stack (MongoDB, Express.js, React.js, Node.js). Additionally, it also includes features such as user authentication, checkout process, product recommendations with vector search, and more!
+Welcome to **Techy Electronics**, a **MERN-Stack E-commerce Application**! This project is a working demo of a full-stack web application that was built using the MERN stack (MongoDB, Express.js, React.js, Node.js). Additionally, it also includes features such as user authentication, checkout process, product recommendations with vector search, and more!
 
 It also aims to provide a comprehensive example of building a modern e-commerce platform, covering frontend user interface, backend server logic, database management, and integration with third-party libraries. Let's dive in!
 
 <p align="center">
-  <a href="https://fusion-ecommerce-app.vercel.app/" target="_blank">
-    <img src="docs/logo.png" alt="Fusion Electronics Logo" style="border-radius: 10px" width="35%"/>
+  <a href="https://techy-ecommerce-app.vercel.app/" target="_blank">
+    <img src="docs/logo.png" alt="Techy Electronics Logo" style="border-radius: 10px" width="35%"/>
   </a>
 </p>
 
@@ -139,11 +139,11 @@ The application is designed to be user-friendly and responsive, providing a seam
 
 ## Live Deployment
 
-The application is deployed live on Vercel. You can access it at the following URL: **[Fusion Electronics App](https://fusion-ecommerce-app.vercel.app).**
+The application is deployed live on Vercel. You can access it at the following URL: **[Techy Electronics App](https://tech-ecommerce-app.vercel.app).**
 
-The **primary** backend server is deployed on Vercel and can be accessed at the following URL: **[Fusion Electronics API](https://fusion-electronics-api.vercel.app/)**.
+The **primary** backend server is deployed on Vercel and can be accessed at the following URL: **[Techy Electronics API](https://tech-electronics-api.vercel.app/)**.
 
-The **backup** backend server is deployed on Render and can be accessed at the following URL: **[Fusion Electronics API](https://fusion-electronics-api.vercel.app/).**
+The **backup** backend server is deployed on Render and can be accessed at the following URL: **[Techy Electronics API](https://tech-electronics-api.vercel.app/).**
 
 > [!IMPORTANT]
 > **Note**: The backend server may take a few seconds to wake up if it has been inactive for a while. For your information, it is hosted on the free tier of Render, with 0.1 CPU and 512 MB of memory only, so it may take a bit longer to respond to requests, especially after periods of inactivity.
@@ -156,115 +156,115 @@ The **backup** backend server is deployed on Render and can be accessed at the f
 ### Home Page
 
 <p align="center">
-    <img src="docs/home-ui.png" alt="Fusion Electronics Homepage" style="border-radius: 10px" width="100%"/>
+    <img src="docs/home-ui.png" alt="Techy Electronics Homepage" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Recommended Products (based on user interaction)
 
 <p align="center">
-    <img src="docs/recommended-products-ui.png" alt="Fusion Electronics Recommended Products" style="border-radius: 10px" width="100%"/>
+    <img src="docs/recommended-products-ui.png" alt="Techy Electronics Recommended Products" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Full Product List
 
 <p align="center">
-    <img src="docs/products-ui.png" alt="Fusion Electronics Products List" style="border-radius: 10px" width="100%"/>
+    <img src="docs/products-ui.png" alt="Techy Electronics Products List" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Search Results
 
 <p align="center">
-    <img src="docs/search-results-ui.png" alt="Fusion Electronics Search Results" style="border-radius: 10px" width="100%"/>
+    <img src="docs/search-results-ui.png" alt="Techy Electronics Search Results" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Product Details Page
 
 <p align="center">
-    <img src="docs/product-details-ui.png" alt="Fusion Electronics Product Details Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/product-details-ui.png" alt="Techy Electronics Product Details Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Cart Page
 
 <p align="center">
-    <img src="docs/cart-ui.png" alt="Fusion Electronics Cart Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/cart-ui.png" alt="Techy Electronics Cart Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Checkout Page
 
 <p align="center">
-    <img src="docs/checkout-ui.png" alt="Fusion Electronics Checkout Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/checkout-ui.png" alt="Techy Electronics Checkout Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Support Page
 
 <p align="center">
-    <img src="docs/support-ui.png" alt="Fusion Electronics Support Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/support-ui.png" alt="Techy Electronics Support Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### About Page
 
 <p align="center">
-    <img src="docs/about-ui.png" alt="Fusion Electronics About Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/about-ui.png" alt="Techy Electronics About Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Order Confirmation
 
 <p align="center">
-    <img src="docs/order-ui.png" alt="Fusion Electronics Order Success Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/order-ui.png" alt="Techy Electronics Order Success Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Order Tracking
 
 <p align="center">
-    <img src="docs/order-tracking-ui.png" alt="Fusion Electronics Order Tracking Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/order-tracking-ui.png" alt="Techy Electronics Order Tracking Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Shipping & Returns
 
 <p align="center">
-    <img src="docs/shipping-ui.png" alt="Fusion Electronics Shipping & Returns Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/shipping-ui.png" alt="Techy Electronics Shipping & Returns Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Terms of Service
 
 <p align="center">
-    <img src="docs/terms-ui.png" alt="Fusion Electronics Terms of Service Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/terms-ui.png" alt="Techy Electronics Terms of Service Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Privacy Policy
 
 <p align="center">
-    <img src="docs/privacy-ui.png" alt="Fusion Electronics Privacy Policy Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/privacy-ui.png" alt="Techy Electronics Privacy Policy Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Login Page
 
 <p align="center">
-    <img src="docs/login-ui.png" alt="Fusion Electronics Login Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/login-ui.png" alt="Techy Electronics Login Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Register Page
 
 <p align="center">
-    <img src="docs/register-ui.png" alt="Fusion Electronics Register Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/register-ui.png" alt="Techy Electronics Register Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Forgot Password Page
 
 <p align="center">
-    <img src="docs/forgot-password-ui.png" alt="Fusion Electronics Forgot Password Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/forgot-password-ui.png" alt="Techy Electronics Forgot Password Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Reset Password Page
 
 <p align="center">
-    <img src="docs/reset-password-ui.png" alt="Fusion Electronics Reset Password Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/reset-password-ui.png" alt="Techy Electronics Reset Password Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Footer
 
 <p align="center">
-    <img src="docs/footer.png" alt="Fusion Electronics Footer" style="border-radius: 10px" width="100%"/>
+    <img src="docs/footer.png" alt="Techy Electronics Footer" style="border-radius: 10px" width="100%"/>
 </p>
 
 ## Features
@@ -693,7 +693,7 @@ This guide enables you to view, test, and utilize the API. You can generate clie
 
 ## Deployment
 
-Fusion Electronics supports a wide range of deployment platforms, including Vercel, Render, AWS, and more. You can deploy both the frontend and backend servers to your preferred cloud provider. 
+Techy Electronics supports a wide range of deployment platforms, including Vercel, Render, AWS, and more. You can deploy both the frontend and backend servers to your preferred cloud provider. 
 
 It also supports containerized and enterprise-grade deployments (blue/green deployments, canary releases, etc.) using Docker and Kubernetes. For more details on deployments, see the [DEPLOYMENT GUIDE](DEPLOYMENT.md) file.
 
@@ -728,15 +728,16 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Creator
 
-Fusion Electronics was created with ❤️ by:
+Techy Electronics was created with ❤️ by:
 
 - **Son Nguyen** - [hoangsonww](https://github.com/hoangsonww)
 - **Email:** [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com).
 
 ---
 
-Thank you for exploring **Fusion Electronics - a MERN Stack E-commerce Application**! If you have any questions or feedback, feel free to reach out or open an issue.
+Thank you for exploring **Techy Electronics - a MERN Stack E-commerce Application**! If you have any questions or feedback, feel free to reach out or open an issue.
 
 **Happy coding! 🚀**
-#   T e c h y - E l e c t r o n i c s - M E R N - w e b s i t e  
+#   T e c h y - E l e c t r o n i c s - M E R N - w e b s i t e 
+ 
  
